@@ -12,6 +12,18 @@
 
 Have a look at dockerized ZeroTier moon: [rwv/zerotier-moon](https://github.com/rwv/docker-zerotier-moon).
 
+## Table of Contents
+
+- [Quickstart](#quickstart)
+  - [Start a container](#start-a-container)
+  - [Manage ZeroTier](#manage-zerotier)
+- [Docker Compose](#docker-compose)
+  - [Compose file](#compose-file)
+  - [Manage ZeroTier](#manage-zerotier-1)
+- [Advanced usage](#advanced-usage)
+  - [Multi-arch support](#multi-arch-support)
+  - [GitHub Container Registry](#github-container-registry)
+
 ## Quickstart
 
 ### Start a container
@@ -29,6 +41,8 @@ docker exec zerotier zerotier-cli
 ```
 
 ## Docker Compose
+
+### Compose file
 
 `docker-compose.yml` example:
 

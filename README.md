@@ -10,6 +10,8 @@
 <br>
 🐳 A docker image to run ZeroTier.
 
+Have a look at dockerized ZeroTier moon: [rwv/zerotier-moon](https://github.com/rwv/docker-zerotier-moon).
+
 ## Quickstart
 
 ### Start a container

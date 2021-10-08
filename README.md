@@ -1,4 +1,13 @@
 # docker-zerotier
+
+<a href="https://github.com/rwv/docker-zerotier/actions">
+    <img src="https://img.shields.io/github/workflow/status/rwv/docker-zerotier/Docker" alt="GitHub Actions" />
+</a>
+<a href="https://hub.docker.com/r/seedgou/zerotier">
+    <img src="https://img.shields.io/docker/pulls/seedgou/zerotier" alt="Docker Hub" />
+    <img src="https://img.shields.io/docker/image-size/seedgou/zerotier/latest" alt="Docker Image Size" />
+</a>
+<br>
 🐳 A docker image to run ZeroTier.
 
 ## Quickstart

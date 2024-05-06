@@ -1,8 +1,8 @@
 # docker-zerotier
 
-<a href="https://github.com/rwv/docker-zerotier/actions">
-    <img src="https://img.shields.io/github/workflow/status/rwv/docker-zerotier/Docker" alt="GitHub Actions" />
-</a>
+> [!Note]  
+> Use [zerotier/zerotier](https://hub.docker.com/r/zerotier/zerotier) instead.
+
 <a href="https://hub.docker.com/r/seedgou/zerotier">
     <img src="https://img.shields.io/docker/v/seedgou/zerotier?sort=semver" alt="Docker Version" />
     <img src="https://img.shields.io/docker/pulls/seedgou/zerotier" alt="Docker Hub" />
